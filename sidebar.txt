@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vin:home|Door43 (vin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vin|d43-vin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vin/archive/master.zip|d43-vin.zip]]
+
+**Recent Changes**
+{{changes>ns = vin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vin|Ethnologue data]]
+
